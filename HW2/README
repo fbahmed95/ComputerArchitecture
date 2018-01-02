@@ -1,0 +1,3 @@
+Shift3: A circuit that is capable of performing logical left and right shifts on a 3 bit number. Shift 0's as filler bits. 
+
+4bitAdder: A 4 bit adder that uses carry look ahead. 

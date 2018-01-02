@@ -1,0 +1,5 @@
+UpDownCounter: A 3bit synchronous up/down counter that stops counting when the minimum/maximum count is reached (when count is at 111 and told to count up, should stay at 111). But Count_Up and Count_Down will never be 1 at the same time. If both are 0, count should not change. 
+
+4BitParity: A Moor model circuit that calculates the even parity over a group of 4 bits. Circuit should output a 1 if after the last bit in the group is received, the number of 1's in the group of 4 bits is even and 0 at all other times. 
+
+Vending: A Mealy model circuit to control a coin operater vending machine. Machine only accepts quarters, dimes, and nickels. Coins are inserted until a total of 30 cents or more is deposited. 
